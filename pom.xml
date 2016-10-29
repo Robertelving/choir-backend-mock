@@ -19,9 +19,9 @@
     
     <dependencies>
         <dependency>
-            <groupId>cphbusiness</groupId>
+            <groupId>dk.cphbusiness</groupId>
             <artifactId>choir-contract</artifactId>
-            <version>1.0.1</version>
+             <version>1.0.1</version>
         </dependency>
     </dependencies>
     
