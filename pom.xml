@@ -10,13 +10,13 @@
       <repository>
         <id>artifactory</id>
         <name>artifactory-releases</name>
-        <url>http://45.55.211.111:8082/artifactory/ext-release-local</url>
+        <url>http://45.55.211.111:8082/artifactory/libs-release-local</url>
       </repository>
     </repositories>
 
     <dependencies>
         <dependency>
-            <groupId>cphbusiness</groupId>
+            <groupId>dk.cphbusiness</groupId>
             <artifactId>choir-contract</artifactId>
             <version>1.0.1</version>
         </dependency>
